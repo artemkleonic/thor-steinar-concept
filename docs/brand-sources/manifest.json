@@ -1,0 +1,83 @@
+{
+  "retrieved": "2026-11-09",
+  "scope": "Private independent concept; no publication; no rights transfer implied",
+  "assets": [
+    {
+      "file": "public/images/brand/eikin.webp",
+      "kind": "official-source",
+      "source": "https://cdn.thorsteinar.de/files/www.thorsteinar.de/media/99/70/66/1788247887/JA-W26-15286-Eikin_2-schwarz-vorne_24723.jpg",
+      "product": "https://www.thorsteinar.de/JACKE-EIKIN-II/300015286",
+      "origin": "Source: https://cdn.thorsteinar.de/files/www.thorsteinar.de/media/99/70/66/1788247887/JA-W26-15286-Eikin_2-schwarz-vorne_24723.jpg ; product: https://www.thorsteinar.de/JACKE-EIKIN-II/300015286 ; original Thor Steinar asset downloaded 2026-11-09. Product photographs resized and encoded WebP without visual redesign; original logo uses CSS monochrome treatment on dark background."
+    },
+    {
+      "file": "public/images/brand/lines.webp",
+      "kind": "official-source",
+      "source": "https://cdn.thorsteinar.de/files/www.thorsteinar.de/media/7c/34/97/1788870652/KPZS-W26-19178-Lines-schwarz-vorne_24986.jpg",
+      "product": "https://www.thorsteinar.de/KAPUZENSWEATSHIRT-LINES/700019178",
+      "origin": "Source: https://cdn.thorsteinar.de/files/www.thorsteinar.de/media/7c/34/97/1788870652/KPZS-W26-19178-Lines-schwarz-vorne_24986.jpg ; product: https://www.thorsteinar.de/KAPUZENSWEATSHIRT-LINES/700019178 ; original Thor Steinar asset downloaded 2026-11-09. Product photographs resized and encoded WebP without visual redesign; original logo uses CSS monochrome treatment on dark background."
+    },
+    {
+      "file": "public/images/brand/support.webp",
+      "kind": "official-source",
+      "source": "https://cdn.thorsteinar.de/files/www.thorsteinar.de/media/96/e0/db/1740659046/TS-S25-10434-Support_20-weiss-vorne_22440.jpg",
+      "product": "https://www.thorsteinar.de/T-SHIRT-SUPPORT-2.0/200010434",
+      "origin": "Source: https://cdn.thorsteinar.de/files/www.thorsteinar.de/media/96/e0/db/1740659046/TS-S25-10434-Support_20-weiss-vorne_22440.jpg ; product: https://www.thorsteinar.de/T-SHIRT-SUPPORT-2.0/200010434 ; original Thor Steinar asset downloaded 2026-11-09. Product photographs resized and encoded WebP without visual redesign; original logo uses CSS monochrome treatment on dark background."
+    },
+    {
+      "file": "public/images/brand/halsa.webp",
+      "kind": "official-source",
+      "source": "https://cdn.thorsteinar.de/files/www.thorsteinar.de/media/92/ed/63/1740656858/ACC-W20-41564-Halsa-schwarz_15843.jpg",
+      "product": "https://www.thorsteinar.de/MUETZE-HALSA/120041564",
+      "origin": "Source: https://cdn.thorsteinar.de/files/www.thorsteinar.de/media/92/ed/63/1740656858/ACC-W20-41564-Halsa-schwarz_15843.jpg ; product: https://www.thorsteinar.de/MUETZE-HALSA/120041564 ; original Thor Steinar asset downloaded 2026-11-09. Product photographs resized and encoded WebP without visual redesign; original logo uses CSS monochrome treatment on dark background."
+    },
+    {
+      "file": "public/images/brand/legendary.webp",
+      "kind": "official-source",
+      "source": "https://cdn.thorsteinar.de/files/www.thorsteinar.de/media/6d/9e/e6/1746783104/KPZJ-S25-G25076-44-weiss-vorne_22899.jpg",
+      "product": "https://www.thorsteinar.de/DAMEN-KAPUZENJACKE-LEGENDARY/70025076",
+      "origin": "Source: https://cdn.thorsteinar.de/files/www.thorsteinar.de/media/6d/9e/e6/1746783104/KPZJ-S25-G25076-44-weiss-vorne_22899.jpg ; product: https://www.thorsteinar.de/DAMEN-KAPUZENJACKE-LEGENDARY/70025076 ; original Thor Steinar asset downloaded 2026-11-09. Product photographs resized and encoded WebP without visual redesign; original logo uses CSS monochrome treatment on dark background."
+    },
+    {
+      "file": "public/images/brand/women-support.webp",
+      "kind": "official-source",
+      "source": "https://cdn.thorsteinar.de/files/www.thorsteinar.de/media/3f/92/f1/1746783098/TS-S25-G20088-Support-weiss-vorne_22900.jpg",
+      "product": "https://www.thorsteinar.de/DAMEN-T-SHIRT-SUPPORT/20020088",
+      "origin": "Source: https://cdn.thorsteinar.de/files/www.thorsteinar.de/media/3f/92/f1/1746783098/TS-S25-G20088-Support-weiss-vorne_22900.jpg ; product: https://www.thorsteinar.de/DAMEN-T-SHIRT-SUPPORT/20020088 ; original Thor Steinar asset downloaded 2026-11-09. Product photographs resized and encoded WebP without visual redesign; original logo uses CSS monochrome treatment on dark background."
+    },
+    {
+      "file": "public/images/brand/support-detail.webp",
+      "kind": "official-source",
+      "source": "https://cdn.thorsteinar.de/files/www.thorsteinar.de/media/10/1c/f6/1740659054/TS-S25-10434-Support_20-Detail_1_22453.jpg",
+      "product": "https://www.thorsteinar.de/T-SHIRT-SUPPORT-2.0/200010434",
+      "origin": "Source: https://cdn.thorsteinar.de/files/www.thorsteinar.de/media/10/1c/f6/1740659054/TS-S25-10434-Support_20-Detail_1_22453.jpg ; product: https://www.thorsteinar.de/T-SHIRT-SUPPORT-2.0/200010434 ; original Thor Steinar asset downloaded 2026-11-09. Product photographs resized and encoded WebP without visual redesign; original logo uses CSS monochrome treatment on dark background."
+    },
+    {
+      "file": "public/images/brand/logo-original.png",
+      "kind": "official-source",
+      "source": "https://cdn.thorsteinar.de/files/www.thorsteinar.de/media/23/0e/77/1716387422/logo-shop-retina.png",
+      "product": "https://www.thorsteinar.de/",
+      "origin": "Source: https://cdn.thorsteinar.de/files/www.thorsteinar.de/media/23/0e/77/1716387422/logo-shop-retina.png ; product: https://www.thorsteinar.de/ ; original Thor Steinar asset downloaded 2026-11-09. Product photographs resized and encoded WebP without visual redesign; original logo uses CSS monochrome treatment on dark background."
+    },
+    {
+      "file": "public/images/brand/hero.webp",
+      "kind": "generated-reference-campaign",
+      "tool": "built-in image_gen.imagegen",
+      "prompt": "Use case: ads-marketing. Create a photorealistic premium fashion campaign landscape 1536x1024 for a clearly disclosed independent Thor Steinar concept. Input image 1 is an exact garment reference, not a background: the black THOR STEINAR EIKIN II jacket. Preserve its actual cut, matte black woven fabric, removable hood, ribbed cuffs and hem, visible seam layout, concealed main zip, pockets, snap buttons and the EXACT small circular TS chest logo patch in the same position and proportions. Do not redesign, simplify or invent the garment or its logo. Put this same jacket on a new adult male fashion model aged around 30, natural dark short hair and light stubble, jacket zipped most of the way, no hat, no other visible branded clothing. Three-quarter waist-up fashion portrait, model on right third looking toward camera left, both shoulders visible and face completely inside frame. Backdrop: dramatic cold Norwegian coast with a gray ocean and dark rock, overcast soft light. Left 50% clean dark atmospheric negative space for website typography. High-end European streetwear editorial, subtle desaturated slate colors, crisp fabric and chest logo, natural anatomy, no war or political motifs, no added text or watermarks. The only branding is the existing unchanged garment patch.",
+      "reference": "docs/brand-sources/eikin.jpg"
+    },
+    {
+      "file": "public/images/brand/hero-mobile.webp",
+      "kind": "generated-reference-campaign",
+      "tool": "built-in image_gen.imagegen",
+      "prompt": "Use case: ads-marketing. Create a photorealistic premium fashion campaign landscape 1536x1024 for a clearly disclosed independent Thor Steinar concept. Input image 1 is an exact garment reference, not a background: the black THOR STEINAR EIKIN II jacket. Preserve its actual cut, matte black woven fabric, removable hood, ribbed cuffs and hem, visible seam layout, concealed main zip, pockets, snap buttons and the EXACT small circular TS chest logo patch in the same position and proportions. Do not redesign, simplify or invent the garment or its logo. Put this same jacket on a new adult male fashion model aged around 30, natural dark short hair and light stubble, jacket zipped most of the way, no hat, no other visible branded clothing. Three-quarter waist-up fashion portrait, model on right third looking toward camera left, both shoulders visible and face completely inside frame. Backdrop: dramatic cold Norwegian coast with a gray ocean and dark rock, overcast soft light. Left 50% clean dark atmospheric negative space for website typography. High-end European streetwear editorial, subtle desaturated slate colors, crisp fabric and chest logo, natural anatomy, no war or political motifs, no added text or watermarks. The only branding is the existing unchanged garment patch.",
+      "reference": "docs/brand-sources/eikin.jpg"
+    },
+    {
+      "file": "public/images/brand/women-campaign.webp",
+      "kind": "generated-reference-campaign",
+      "tool": "built-in image_gen.imagegen",
+      "prompt": "Use case: ads-marketing. Asset type: landscape 1536x1024 premium European fashion campaign for an explicitly independent website concept. Input image is the exact product reference: original Thor Steinar women's SUPPORT white fitted T-shirt. Put this SAME T-shirt on a new adult female fashion model around age 27, shoulder-length brunette hair, natural makeup, black straight-leg jeans, relaxed upright pose facing the camera almost straight-on, waist-up framing. Preserve the product faithfully: white short sleeve fitted cut, crew neckline, black circular chest emblem above the EXACT black serif text THOR STEINAR and burgundy cursive text Nordic Company, placement/scale/spacing/colors as in source, small red side label. Do not invent new marks, do not replace or restyle the logo, no generic unbranded substitution. Chest fabric and original artwork must be fully visible and legible, no arms or hair covering the graphic. Scene: cool northern European harbor concrete wall, subtle seaside daylight, luxury fashion editorial with realistic fabric grain, no extra accessories. Model positioned in LEFT third, facing almost front, entire head inside frame with some headroom. RIGHT half simple dark rough concrete negative space reserved for webpage text. Desaturated charcoal backdrop, shirt stays white, original burgundy branding remains. No other text, no watermark, no political/military symbols or decorative emblems. Only the existing original garment graphics.",
+      "reference": "docs/brand-sources/women-support.jpg"
+    }
+  ]
+}
